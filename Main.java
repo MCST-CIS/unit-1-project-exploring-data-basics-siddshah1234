@@ -35,7 +35,7 @@ public class Main
 		double yearly = paycheckamount*monthlypayments*12;
 	
         // input to get salary after x amount of years (user inputs x)
-		System.out.println("Enter your salary after x amount of years. Enter x (or no to stop): ");
+		System.out.println("Enter the amount of years you would like to see your salary after: ");
 		String years = scanner.next(); // <-- example of data type: string
 		
 	    // performing calculations to find user salary after x amount of years after taxes
