@@ -1,7 +1,8 @@
 // Siddhant Shah
 // Computer Science Programming II
 // 11/19/2024
-// Project Name: Employee Salary Calculator 
+// Project Name: Projected Salary Calculator
+// Description: My program, Projected Salary Calculator, calculates an employee’s future salary (monthly and annual) after a specified number of years. It considers factors such as current salary, annual raises, and taxes. My program aims to help employees project their financial growth. 
 
 // importing packages
 import java.util.Scanner;
